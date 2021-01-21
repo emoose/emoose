@@ -3,7 +3,7 @@
 - [xvdtool](https://github.com/emoose/xvdtool) - for manipulating the XVD images used by Xbox One
 - [idaxex/xex1tool](https://github.com/emoose/idaxex) - for disassembling XEX files of almost any vintage
 - [xbox-winfsp](https://github.com/emoose/xbox-winfsp) - for mounting Xbox360-specific file containers natively under Windows
-- [stfschk](https://github.com/emoose/xbox-reversing) - for validating the integrity of Xbox360 STFS packages
+- [stfschk](https://github.com/emoose/xbox-reversing/tree/master/stfschk) - for validating the integrity of Xbox360 STFS packages
 - [xbox-reversing](https://github.com/emoose/xbox-reversing) - for pulling apart various Xbox360 formats such as XEX/STFS/GPD (with near-complete structures & reading code for each)
 - [ExCrypt](https://github.com/emoose/ExCrypt) - for interoperability with X360's XeCrypt suite
 - [XbRecUnpack](https://github.com/emoose/XbRecUnpack) - for unpacking Xbox/Xbox360 XDK installers
