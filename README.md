@@ -12,4 +12,4 @@ I've also dabbled with taking games apart & making them moddable, such as helpin
 
 My language of choice is C# for being a good friend over the years, but I've also done my share of work in C/C++/Python/PHP/JavaScript as well.
 
-In case it wasn't obvious enough my favorite ISA is PowerPC, for being so clean and easy to understand, along with being the ISA that first introduced me to Assembly too.
+In case it wasn't obvious my favorite ISA is PowerPC, for being so clean and easy to understand, along with being the ISA that first introduced me to Assembly too.
