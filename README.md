@@ -8,8 +8,8 @@
 - [ExCrypt](https://github.com/emoose/ExCrypt) - for interoperability with X360's XeCrypt suite
 - [XbRecUnpack](https://github.com/emoose/XbRecUnpack) - for unpacking Xbox/Xbox360 XDK recoveries/installers
 
-Over the years I've also dabbled with taking games apart & making them moddable, such as helping create the [ElDewrito](https://github.com/ElDewrito/ElDorito), [MBINCompiler](https://github.com/monkeyman192/MBINCompiler) & [DOOMExtract](https://github.com/emoose/DOOMExtract) projects. 
+I've also dabbled with taking games apart & making them moddable, such as helping create the [ElDewrito](https://github.com/ElDewrito/ElDorito), [MBINCompiler](https://github.com/monkeyman192/MBINCompiler) & [DOOMExtract](https://github.com/emoose/DOOMExtract) projects. 
 
 My language of choice is C# for being a good friend over the years, but I've also done my share of work in C/C++/Python/PHP/JavaScript as well.
 
-In case it wasn't obvious enough my favorite ISA is PowerPC, for being so clean and easy to understand, along with being the ISA that introduced me to Assembly too.
+In case it wasn't obvious enough my favorite ISA is PowerPC, for being so clean and easy to understand, along with being the ISA that first introduced me to Assembly too.
