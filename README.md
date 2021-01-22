@@ -1,5 +1,5 @@
 ### Hylô!
-[emoose yw fy enw i](tl "Welsh: my name is emoose"), I've been doing work on Xbox related things for too long to remember, you may know me from such hits as:
+[emoose yw fy enw i](tl "Welsh: my name is emoose"), I've been doing work on Xbox related things for too long to remember, you might know me from such hits as:
 - [xvdtool](https://github.com/emoose/xvdtool) - for manipulating the XVD images used by Xbox One
 - [Xb2XInput](https://github.com/emoose/Xb2XInput) - for adding support for Xbox OG controllers to Windows
 - [idaxex/xex1tool](https://github.com/emoose/idaxex) - for disassembling X360 XEX executables of almost any vintage
