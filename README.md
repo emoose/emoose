@@ -11,6 +11,4 @@
 
 I've also dabbled with taking games apart & trying to make them moddable, helping to create the [ElDewrito](https://github.com/ElDewrito/ElDorito), [MBINCompiler](https://github.com/monkeyman192/MBINCompiler) & [DOOMExtract](https://github.com/emoose/DOOMExtract) projects. 
 
-My language of choice is C# for being a good friend over the years, but I've also done my share of work in C/C++/Python/PHP/JavaScript as well.
-
 If it wasn't obvious my favorite ISA is PowerPC, for being so clean and easy to learn/understand, along with being the ISA that first introduced me to Assembly too.
