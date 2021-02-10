@@ -1,5 +1,5 @@
-### Hylô!
-[Fy enw i yw emoose](tl "Welsh: my name is emoose")! I've been modding Xbox related things since I first got an Xecuter 2.6 for my original Xbox, you might know me from such hits as:
+### Helô!
+[Fy enw i yw emoose](tl "Welsh: my name is emoose")! I've been modding Xbox related things since I first got an Xecuter 2.6 for my original Xbox, some of my recent Xbox projects are:
 - [xvdtool](https://github.com/emoose/xvdtool) - for manipulating the XVD images used by Xbox One
 - [Xb2XInput](https://github.com/emoose/Xb2XInput) - for adding support for Xbox OG controllers to Windows
 - [idaxex/xex1tool](https://github.com/emoose/idaxex) - for disassembling X360 XEX executables of nearly any vintage
