@@ -10,7 +10,7 @@ Fy enw i yw emoose! I've been modding Xbox related things since I first got an X
 - [ExCrypt](https://github.com/emoose/ExCrypt) - for interoperability with X360's XeCrypt cryptography suite
 - [XbRecUnpack](https://github.com/emoose/XbRecUnpack) - for fully unpacking Xbox/Xbox360 XDK recoveries/installers
 
-I've also dabbled with taking games apart & trying to make them moddable, helping to start the [ElDewrito](https://github.com/ElDewrito/ElDorito), [MBINCompiler](https://github.com/monkeyman192/MBINCompiler) & [DOOMExtract](https://github.com/emoose/DOOMExtract) projects. 
+I've also messed with taking games apart & trying to make them moddable, helping to start the [ElDewrito](https://github.com/ElDewrito/ElDorito), [MBINCompiler](https://github.com/monkeyman192/MBINCompiler) & [DOOMExtract](https://github.com/emoose/DOOMExtract) projects. 
 
 If it wasn't obvious my favorite ISA is PowerPC, for being so clean and easy to learn/understand, along with being the ISA that first introduced me to Assembly too.
 
