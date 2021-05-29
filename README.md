@@ -10,7 +10,7 @@ Fy enw i yw emoose! I've been modding Xbox related things since I first got an X
 - [ExCrypt](https://github.com/emoose/ExCrypt) - for interoperability with X360's XeCrypt cryptography suite
 - [XbRecUnpack](https://github.com/emoose/XbRecUnpack) - for fully unpacking Xbox/Xbox360 XDK recoveries/installers
 
-I've also messed with taking games apart & trying to make them moddable, some of the modding projects I helped create:
+I've also messed with taking games apart & trying to make them moddable, some of the modding projects I helped start:
 - [ElDewrito](https://github.com/ElDewrito/ElDorito) - a client modification for Halo Online
 - [MBINCompiler](https://github.com/monkeyman192/MBINCompiler) - a tool for (de)serializing No Mans Sky data files
 - [DOOMExtract](https://github.com/emoose/DOOMExtract) - for extracting/repacking DOOM 2016 resources
