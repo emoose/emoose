@@ -10,7 +10,13 @@ Fy enw i yw emoose! I've been modding Xbox related things since I first got an X
 - [ExCrypt](https://github.com/emoose/ExCrypt) - for interoperability with X360's XeCrypt cryptography suite
 - [XbRecUnpack](https://github.com/emoose/XbRecUnpack) - for fully unpacking Xbox/Xbox360 XDK recoveries/installers
 
-I've also messed with taking games apart & trying to make them moddable, helping to start the [ElDewrito](https://github.com/ElDewrito/ElDorito), [MBINCompiler](https://github.com/monkeyman192/MBINCompiler) & [DOOMExtract](https://github.com/emoose/DOOMExtract) projects. 
+I've also messed with taking games apart & trying to make them moddable, some of the modding projects I helped create:
+- [ElDewrito](https://github.com/ElDewrito/ElDorito) - a client modification for Halo Online
+- [MBINCompiler](https://github.com/monkeyman192/MBINCompiler) - a tool for (de)serializing No Mans Sky data files
+- [DOOMExtract](https://github.com/emoose/DOOMExtract) - for extracting/repacking DOOM 2016 resources
+- [sh2proxy](https://github.com/emoose/sh2proxy) - a mod for Silent Hill 2, bringing fixups for modern machines (outdated - use [Silent Hill 2 Enhanced Edition](http://www.enhanced.townofsilenthill.com/SH2/) instead!)
+- [DQXIS-SDK](https://github.com/emoose/DQXIS-SDK) - a mod for Dragon Quest XI S that allows easier modding through the dev-console & loose-file loading, along with a few code fixes.
+- [DQXIAsset](https://github.com/emoose/DQXIAsset) - a tool for (de)serializing / unpacking / decompiling the UE4 DataTables used by DQXIS.
 
 If it wasn't obvious my favorite ISA is PowerPC, for being so clean and easy to learn/understand, along with being the ISA that first introduced me to Assembly too.
 
