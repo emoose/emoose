@@ -12,7 +12,7 @@ Fy enw i yw emoose! I've been modding Xbox related things since I first got an X
 
 I've also messed with taking games apart & trying to make them moddable, some of the modding projects I helped get started:
 - [sh2proxy](https://github.com/emoose/sh2proxy) - a mod for Silent Hill 2, bringing fixups for modern machines (outdated - use [Silent Hill 2 Enhanced Edition](http://www.enhanced.townofsilenthill.com/SH2/) instead!)
-- [DQXIS-SDK](https://github.com/emoose/DQXIS-SDK) - a mod for Dragon Quest XI S that allows easier modding through the dev-console & loose-file loading, along with a few code fixes.
+- [DQXIS-SDK](https://github.com/emoose/DQXIS-SDK) - a mod for Dragon Quest XI S that allows easier modding through loose-file loading & enabling the dev-console, along with a few code fixes.
 - [DQXIAsset](https://github.com/emoose/DQXIAsset) - a tool for (de)serializing / unpacking / decompiling the UE4 DataTables used by DQXIS.
 - [MBINCompiler](https://github.com/monkeyman192/MBINCompiler) - a tool for (de)serializing No Mans Sky data files
 - [DOOMExtract](https://github.com/emoose/DOOMExtract) - for extracting/repacking DOOM 2016 resources
