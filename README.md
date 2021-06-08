@@ -3,7 +3,7 @@
 Fy enw i yw emoose! I've been modding the Xbox since I first got an Xecuter 2.6 for my Xbox OG, my recent Xbox projects are:
 - [xvdtool](https://github.com/emoose/xvdtool) - for manipulating the XVD images used by Xbox One
 - [Xb2XInput](https://github.com/emoose/Xb2XInput) - for adding support for Xbox OG controllers to Windows
-- [idaxex/xex1tool](https://github.com/emoose/idaxex) - for disassembling X360 XEX executables of nearly any vintage
+- [idaxex/xex1tool](https://github.com/emoose/idaxex) - for disassembling X360 XEX executables from almost any point in time (from pre-beta Xenon executables onward!)
 - [xbox-winfsp](https://github.com/emoose/xbox-winfsp) - for mounting Xbox-specific file containers natively under Windows
 - [stfschk](https://github.com/emoose/xbox-reversing/tree/master/stfschk) - for validating the integrity of Xbox360 STFS packages
 - [xbox-reversing](https://github.com/emoose/xbox-reversing) - for pulling apart various Xbox360 formats such as XEX/STFS/GPD (with near-complete structures & reading code for each)
