@@ -21,3 +21,5 @@ I've also messed with taking games apart & trying to make them moddable, some of
 If it wasn't obvious my favorite ISA is PowerPC, for being so clean and easy to learn/understand, along with being the ISA that first introduced me to Assembly too.
 
 **Email: abc (at) cock . li**
+
+![](https://komarev.com/ghpvc/?username=emoose&color=green)
