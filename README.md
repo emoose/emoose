@@ -18,7 +18,7 @@ I've also helped to take some games apart to try making them moddable, some proj
 - [DOOMExtract](https://github.com/emoose/DOOMExtract) - for extracting/repacking DOOM 2016 resources
 - [ElDewrito](https://github.com/ElDewrito/ElDorito) - a client modification for Halo Online
 - [Improved Lighting Shaders](https://www.nexusmods.com/newvegas/mods/69833) - for Fallout New Vegas, allows extending the per-cell light-limit and helps eliminate lighting issues
-- [Automata-LodMod](https://www.nexusmods.com/nierautomata/mods/165) - helps improve graphical quality in NieR Automata
+- [Automata-LodMod](https://www.nexusmods.com/nierautomata/mods/165) - helps improve graphical quality in NieR Automata & patches in various improvements
 
 **Email: abc (at) cock . li**
 
