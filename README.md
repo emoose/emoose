@@ -17,6 +17,7 @@ I've also helped to take some games apart to try making them moddable, some proj
 - [DQXIAsset](https://github.com/emoose/DQXIAsset) - a tool for (de)serializing / unpacking / decompiling the UE4 DataTables used by DQXIS.
 - [MBINCompiler](https://github.com/monkeyman192/MBINCompiler) - a tool for (de)serializing No Mans Sky data files
 - [DOOMExtract](https://github.com/emoose/DOOMExtract) - for extracting/repacking DOOM 2016 resources
+- [DoomLegacyMod](https://www.reddit.com/r/DOOM2016Mods/comments/ahfv2q/doomlegacymod_v201901_updated_for_the_latest_doom/) - unlocks nearly all DOOM 2016 console-commands/variables, and even reimplements a few (noclip, infiniteHealth, noTarget...)
 - [ElDewrito](https://github.com/ElDewrito/ElDorito) - a client modification for Halo Online
 - [Improved Lighting Shaders](https://www.nexusmods.com/newvegas/mods/69833) - for Fallout New Vegas, allows extending the per-cell light-limit and helps eliminate lighting issues
 - [Automata-LodMod](https://www.nexusmods.com/nierautomata/mods/165) - helps improve graphical quality in NieR Automata & patches in various improvements
