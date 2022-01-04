@@ -23,7 +23,7 @@ I've also helped to take some games apart to try making them moddable, some proj
 - [Improved Lighting Shaders](https://www.nexusmods.com/newvegas/mods/69833) - for Fallout New Vegas, allows extending the per-cell light-limit and helps eliminate lighting issues
 - [Automata-LodMod](https://www.nexusmods.com/nierautomata/mods/165) - helps improve graphical quality in NieR Automata & patches in various improvements
 
-So far 5+ of my mods have been featured as "essential" on PCGamingWiki - hoping to bump that number up over time :)
+So far ~5 of my PC game mods have been featured on PCGamingWiki - hoping to bump that number up over time :)
 
 **Email: abc (at) cock . li**
 
