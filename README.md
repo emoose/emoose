@@ -8,7 +8,7 @@ Fy enw i yw emoose! I've been hacking on the Xbox since I first got an Xecuter 2
 - [stfschk](https://github.com/emoose/xbox-reversing/tree/master/stfschk) - for validating the integrity of Xbox360 STFS packages
 - [xbox-reversing](https://github.com/emoose/xbox-reversing) - for pulling apart various Xbox360 formats such as XEX/STFS/GPD (with near-complete structures & reading code for each)
 - [ExCrypt](https://github.com/emoose/ExCrypt) - for interoperability with X360's XeCrypt cryptography suite
-- [XbRecUnpack](https://github.com/emoose/XbRecUnpack) - for fully unpacking Xbox/Xbox360 XDK recoveries/installers
+- [XbRecUnpack](https://github.com/emoose/XbRecUnpack) - for fully unpacking Xbox/Xbox360 recoveries/installers
 
 I've also helped to take some games apart to try making them moddable, some projects that I helped get started:
 - [sh2proxy](https://github.com/emoose/sh2proxy) - a mod for Silent Hill 2, bringing fixups for modern machines (outdated - use [Silent Hill 2 Enhanced Edition](http://www.enhanced.townofsilenthill.com/SH2/) instead!)
