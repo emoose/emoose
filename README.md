@@ -23,6 +23,6 @@ I've also helped to take some games apart to try making them moddable, some proj
 - [Improved Lighting Shaders](https://www.nexusmods.com/newvegas/mods/69833) - for Fallout New Vegas, allows extending the per-cell light-limit and helps eliminate lighting issues
 - [Automata-LodMod](https://www.nexusmods.com/nierautomata/mods/165) - helps improve graphical quality in NieR Automata & patches in various improvements
 
-**Email: abc (at) cock . li**
+**Email: abc (at) cock . li** (my replies may get marked as spam by most providers though)
 
 ![](https://komarev.com/ghpvc/?username=emoose&color=green)
