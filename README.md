@@ -12,16 +12,20 @@ Fy enw i yw emoose! I've been hacking on the Xbox since I first got an Xecuter 2
 
 I've also helped to take some games apart to try making them moddable, some projects that I helped get started:
 - [sh2proxy](https://github.com/emoose/sh2proxy) - a mod for Silent Hill 2, bringing fixups for modern machines (outdated - use [Silent Hill 2 Enhanced Edition](http://www.enhanced.townofsilenthill.com/SH2/) instead!)
-- [DQXIS-SDK](https://github.com/emoose/DQXIS-SDK) - a mod for Dragon Quest XI S that allows easier modding through loose-file loading & enabling the dev-console, along with a few code fixes.
-- [Arise-SDK](https://github.com/emoose/Arise-SDK) - a mod for Tales of Arise that can improve graphics & help modders via dev-console access/loose-file loading.
-- [FFVIIHook](https://www.nexusmods.com/finalfantasy7remake/mods/74) - mod for FFVII Remake that unlocks dev-console & allows much easier INI modding.
-- [DQXIAsset](https://github.com/emoose/DQXIAsset) - a tool for (de)serializing / unpacking / decompiling the UE4 DataTables used by DQXIS.
 - [MBINCompiler](https://github.com/monkeyman192/MBINCompiler) - a tool for (de)serializing No Mans Sky data files
 - [DOOMExtract](https://github.com/emoose/DOOMExtract) - for extracting/repacking DOOM 2016 resources
 - [DoomLegacyMod](https://www.reddit.com/r/DOOM2016Mods/comments/ahfv2q/doomlegacymod_v201901_updated_for_the_latest_doom/) - unlocks nearly all DOOM 2016 console-commands/variables, and even reimplements a few (noclip, infiniteHealth, noTarget...)
 - [ElDewrito](https://github.com/ElDewrito/ElDorito) - a client modification for Halo Online
 - [Improved Lighting Shaders](https://www.nexusmods.com/newvegas/mods/69833) - for Fallout New Vegas, allows extending the per-cell light-limit and helps eliminate lighting issues
 - [Automata-LodMod](https://www.nexusmods.com/nierautomata/mods/165) - helps improve graphical quality in NieR Automata & patches in various improvements
+
+Finally, some mods/tools for UE4 games that I've made:
+- [DQXIHook](https://github.com/emoose/DQXIHook) - mod for Dragon Quest XI that unlocks the UE4 dev console & allows loose-file loading (afaik this was first publicly released UE console unlocking mod - methods used here still seem to work even for the latest UE versions too!)
+- [DQXIS-SDK](https://github.com/emoose/DQXIS-SDK) - mod for Dragon Quest XI S that allows easier modding through loose-file loading & enabling the dev-console, along with a few code fixes.
+- [DQXIAsset](https://github.com/emoose/DQXIAsset) - a tool for (de)serializing / unpacking / decompiling the UE4 DataTables used by DQXIS.
+- [Arise-SDK](https://github.com/emoose/Arise-SDK) - a mod for Tales of Arise that can improve graphics & help modders via dev-console access/loose-file loading.
+- [FFVIIHook](https://www.nexusmods.com/finalfantasy7remake/mods/74) - mod for FFVII Remake that unlocks dev-console & allows much easier INI modding.
+- [Bloodstained Dialogue & Character Viewer Resolution Fix](https://www.nexusmods.com/bloodstainedritualofthenight/mods/144) - Increases render resolution of models during dialogue sequences & menu screens, no more locked 1080p!
 
 **Email: abc (at) cock . li** (my replies may get marked as spam by most providers though)
 
