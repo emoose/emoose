@@ -10,7 +10,7 @@ Fy enw i yw emoose! I've been interested in Xbox modding since I first got an Xe
 - [ExCrypt](https://github.com/emoose/ExCrypt) - for interoperability with X360's XeCrypt cryptography suite
 - [XbRecUnpack](https://github.com/emoose/XbRecUnpack) - for fully unpacking Xbox/Xbox360 recoveries/installers
 
-I've also helped to take some games apart to try making them moddable, some projects that I helped get started:
+I've also helped to take some games apart to try making them moddable, some projects that I helped with:
 - [sh2proxy](https://github.com/emoose/sh2proxy) - a mod for Silent Hill 2, bringing fixups for modern machines (outdated - use [Silent Hill 2 Enhanced Edition](http://www.enhanced.townofsilenthill.com/SH2/) instead!)
 - [MBINCompiler](https://github.com/monkeyman192/MBINCompiler) - a tool for (de)serializing No Mans Sky data files
 - [DOOMExtract](https://github.com/emoose/DOOMExtract) - for extracting/repacking DOOM 2016 resources
@@ -18,6 +18,7 @@ I've also helped to take some games apart to try making them moddable, some proj
 - [ElDewrito](https://github.com/ElDewrito/ElDorito) - a client modification for Halo Online
 - [Improved Lighting Shaders](https://www.nexusmods.com/newvegas/mods/69833) - for Fallout New Vegas, allows extending the per-cell light-limit and helps eliminate lighting issues
 - [Automata-LodMod](https://www.nexusmods.com/nierautomata/mods/165) - helps improve graphical quality in NieR Automata & patches in various improvements
+- [re4_tweaks](https://github.com/nipkownix/re4_tweaks) - a wrapper DLL that improved the PC RE4 UHD port, bringing fixes & improvements that have been requested for years!
 
 Finally, some mods/tools for UE4 games that I've made:
 - [DQXIHook](https://github.com/emoose/DQXIHook) - mod for Dragon Quest XI that unlocks the UE4 dev console & allows loose-file loading (afaik this was the first publicly released UE console unlocking mod - methods used here still seem to work even for the latest UE versions too!)
