@@ -28,6 +28,9 @@ Finally, some mods/tools for UE4 games that I've made:
 - [FFVIIHook](https://www.nexusmods.com/finalfantasy7remake/mods/74) - mod for FFVII Remake that unlocks dev-console & allows much easier INI modding.
 - [Bloodstained Dialogue & Character Viewer Resolution Fix](https://www.nexusmods.com/bloodstainedritualofthenight/mods/144) - Increases render resolution of models during dialogue sequences & menu screens, no more locked 1080p!
 
-**Email: abc (at) cock . li** - my replies may get marked as spam by most providers though.
+## Contact
+Email: **abc (at) cock . li** - my replies may get marked as spam by most providers though.
+
+Discord: unfortunately I don't really use Discord much, contact over email is much more preferable!
 
 ![](https://komarev.com/ghpvc/?username=emoose&color=green)
