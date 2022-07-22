@@ -1,6 +1,6 @@
-### Helô!
+### Shwmae!
 
-Fy enw i yw emoose! I've been interested in Xbox modding since I first got an Xecuter 2.6CE for my OG Xbox, most recently I've worked on:
+Ydy fy enw i emoose! I've been interested in Xbox modding since I first got an Xecuter 2.6CE for my OG Xbox, most recently I've worked on:
 - [xvdtool](https://github.com/emoose/xvdtool) - for manipulating the XVD images used by Xbox One
 - [Xb2XInput](https://github.com/emoose/Xb2XInput) - for adding support for Xbox OG controllers to Windows
 - [xbox-winfsp](https://github.com/emoose/xbox-winfsp) - for mounting Xbox/Xbox360-specific file systems natively under Windows
