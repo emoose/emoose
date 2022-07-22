@@ -1,6 +1,6 @@
 ### Shwmae!
 
-Ydy fy enw i emoose! In my free time I like to roleplay as a game modder/fixer, sometimes the fixes actually work! 
+Ydy fy enw i emoose, in my free time I like to roleplay as a game modder/fixer, sometimes the fixes actually work! 
 
 I've also been interested in console modding ever since I first got an Xecuter 2.6CE for my OG Xbox, most recently I've worked on:
 - [xvdtool](https://github.com/emoose/xvdtool) - for manipulating the XVD images used by Xbox One
