@@ -12,7 +12,7 @@ I've also been interested in console modding ever since I first got an Xecuter 2
 - [ExCrypt](https://github.com/emoose/ExCrypt) - for interoperability with X360's XeCrypt cryptography suite
 - [XbRecUnpack](https://github.com/emoose/XbRecUnpack) - for fully unpacking Xbox/Xbox360 recoveries/installers
 
-I've also helped to take some games apart to try making them moddable, some projects that I helped with:
+I've helped to take some games apart to try making them moddable too, some projects that I helped with:
 - [sh2proxy](https://github.com/emoose/sh2proxy) - a mod for Silent Hill 2, bringing fixups for modern machines (outdated - use [Silent Hill 2 Enhanced Edition](http://www.enhanced.townofsilenthill.com/SH2/) instead!)
 - [MBINCompiler](https://github.com/monkeyman192/MBINCompiler) - a tool for (de)serializing No Mans Sky data files
 - [DOOMExtract](https://github.com/emoose/DOOMExtract) - for extracting/repacking DOOM 2016 resources
