@@ -17,7 +17,7 @@ I've also helped to take some games apart to try making them moddable, some proj
 - [MBINCompiler](https://github.com/monkeyman192/MBINCompiler) - a tool for (de)serializing No Mans Sky data files
 - [DOOMExtract](https://github.com/emoose/DOOMExtract) - for extracting/repacking DOOM 2016 resources
 - [DoomLegacyMod](https://www.reddit.com/r/DOOM2016Mods/comments/ahfv2q/doomlegacymod_v201901_updated_for_the_latest_doom/) - unlocks nearly all DOOM 2016 console-commands/variables, and even reimplements a few (noclip, infiniteHealth, noTarget...)
-- [ElDewrito](https://github.com/ElDewrito/ElDorito) - a client modification for Halo Online
+- [ElDewrito](https://github.com/ElDewrito/ElDorito) - a client modification/derestictor for Halo Online.
 - [Improved Lighting Shaders](https://www.nexusmods.com/newvegas/mods/69833) - for Fallout New Vegas, allows extending the per-cell light-limit and helps eliminate lighting issues
 - [Automata-LodMod](https://www.nexusmods.com/nierautomata/mods/165) - helps improve graphical quality in NieR Automata & patches in various improvements
 - [re4_tweaks](https://github.com/nipkownix/re4_tweaks) - a wrapper DLL that improves the PC RE4 UHD port, bringing fixes & improvements that have been requested for years!
