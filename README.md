@@ -23,7 +23,7 @@ I've helped to take some games apart to try making them moddable too, some of th
 - [re4_tweaks](https://github.com/nipkownix/re4_tweaks) - a wrapper DLL that improves the PC RE4 UHD port, bringing fixes & improvements that have been requested for years!
 
 Finally, some mods/tools for UE4 games that I've made:
-- [DQXIHook](https://github.com/emoose/DQXIHook) - mod for Dragon Quest XI that unlocks the UE4 dev console & allows loose-file loading (afaik this was the first publicly released UE console unlocking mod - methods used here still seem to work even for the latest UE versions too!)
+- [DQXIHook](https://github.com/emoose/DQXIHook) - mod for Dragon Quest XI that unlocks the UE4 dev console & allows loose-file loading.
 - [DQXIS-SDK](https://github.com/emoose/DQXIS-SDK) - mod for Dragon Quest XI S that allows easier modding through loose-file loading & enabling the dev-console, along with some code/resolution fixes & added game features.
 - [DQXIAsset](https://github.com/emoose/DQXIAsset) - a tool for (de)serializing / unpacking / decompiling the UE4 DataTables used by DQXIS.
 - [Arise-SDK](https://github.com/emoose/Arise-SDK) - a mod for Tales of Arise that can improve graphics & help modders via dev-console access/loose-file loading.
