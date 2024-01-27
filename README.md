@@ -3,7 +3,7 @@
 
 Ydy fy enw i emoose, welcome to my page!
 
-Recent things I've helped worked on:
+Recent things I've helped work on:
 - [DLSSTweaks](https://github.com/emoose/DLSSTweaks) - allows customizing Nvidia DLSS via INI and a config tool.
 - [MPC-VR RTX](https://github.com/emoose/VideoRenderer) - adds Nvidia VideoSuperResolution & VideoHDR support to MPC-HC/MPC-BE video renderer.
 - [PrototypeFix](https://www.nexusmods.com/prototype/mods/52) - fixes for the games Prototype & Prototype 2 to help them work on modern machines.
