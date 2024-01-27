@@ -24,7 +24,7 @@ Been console modding ever since messing around with my OG Xbox:
 
 #### Game Modding
 
-Also helped take some games apart to try making them moddable too, some projects that I was involved with:
+Also helped take some games apart to try making them moddable too:
 
 - [sh2proxy](https://github.com/emoose/sh2proxy) - a mod for Silent Hill 2, bringing fixups for modern machines (outdated - use [Silent Hill 2 Enhanced Edition](http://www.enhanced.townofsilenthill.com/SH2/) instead!)
 - [MBINCompiler](https://github.com/monkeyman192/MBINCompiler) - a tool for (de)serializing No Mans Sky data files
