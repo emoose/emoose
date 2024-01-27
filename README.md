@@ -5,12 +5,13 @@ Ydy fy enw i emoose, welcome to my page!
 
 Recent things I've helped worked on:
 - [DLSSTweaks](https://github.com/emoose/DLSSTweaks) - allows customizing Nvidia DLSS via INI and a config tool.
+- [MPC-VR RTX](https://github.com/emoose/VideoRenderer) - adds Nvidia VideoSuperRes & VideoHDR support to MPC-HC/MPC-BE video renderer.
 - [PrototypeFix](https://www.nexusmods.com/prototype/mods/52) - fixes for the games Prototype & Prototype 2 to help them work on modern machines.
 - [MGSHDFix](https://github.com/Lyall/MGSHDFix) - improvements for the MGS Master Collection PC release.
 
 #### Xbox 
 
-Been interested in console modding ever since I first modded my OG Xbox, here's some of the tools I've released:
+Been interested in console modding ever since I first modded my OG Xbox:
 
 - [xvdtool](https://github.com/emoose/xvdtool) - for manipulating the XVD images used by Xbox One
 - [Xb2XInput](https://github.com/emoose/Xb2XInput) - for adding support for Xbox OG controllers to Windows
