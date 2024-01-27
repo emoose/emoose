@@ -11,7 +11,7 @@ Recent things I've helped work on:
 
 #### Xbox 
 
-Been console modding ever since I first modded my OG Xbox:
+Been console modding ever since messing around with my OG Xbox:
 
 - [xvdtool](https://github.com/emoose/xvdtool) - for manipulating the XVD images used by Xbox One
 - [Xb2XInput](https://github.com/emoose/Xb2XInput) - adds support for Xbox OG controllers to Windows
