@@ -11,12 +11,12 @@ Recent things I've helped work on:
 
 #### Xbox 
 
-Been interested in console modding ever since I first modded my OG Xbox:
+Been console modding ever since I first modded my OG Xbox:
 
 - [xvdtool](https://github.com/emoose/xvdtool) - for manipulating the XVD images used by Xbox One
-- [Xb2XInput](https://github.com/emoose/Xb2XInput) - for adding support for Xbox OG controllers to Windows
+- [Xb2XInput](https://github.com/emoose/Xb2XInput) - adds support for Xbox OG controllers to Windows
 - [xbox-winfsp](https://github.com/emoose/xbox-winfsp) - for mounting Xbox/Xbox360-specific file systems natively under Windows
-- [idaxex/xex1tool](https://github.com/emoose/idaxex) - for disassembling X360 XEX executables from almost any point in time (pre-beta Xenon executables onward!)
+- [idaxex/xex1tool](https://github.com/emoose/idaxex) - disassemble X360 XEX executables from almost any point in time (pre-beta Xenon executables onward!)
 - [stfschk](https://github.com/emoose/xbox-reversing/tree/master/stfschk) - for validating the integrity of Xbox360 STFS packages
 - [xbox-reversing](https://github.com/emoose/xbox-reversing) - parsers for pulling apart various Xbox360 formats such as XEX/STFS/GPD
 - [ExCrypt](https://github.com/emoose/ExCrypt) - for interoperability with X360's XeCrypt cryptography suite
@@ -25,6 +25,7 @@ Been interested in console modding ever since I first modded my OG Xbox:
 #### Game Modding
 
 Also helped take some games apart to try making them moddable too, some projects that I was involved with:
+
 - [sh2proxy](https://github.com/emoose/sh2proxy) - a mod for Silent Hill 2, bringing fixups for modern machines (outdated - use [Silent Hill 2 Enhanced Edition](http://www.enhanced.townofsilenthill.com/SH2/) instead!)
 - [MBINCompiler](https://github.com/monkeyman192/MBINCompiler) - a tool for (de)serializing No Mans Sky data files
 - [DOOMExtract](https://github.com/emoose/DOOMExtract) - for extracting/repacking DOOM 2016 resources
@@ -34,7 +35,8 @@ Also helped take some games apart to try making them moddable too, some projects
 - [Automata-LodMod](https://www.nexusmods.com/nierautomata/mods/165) - helps improve graphical quality in NieR Automata & patches in various improvements
 - [re4_tweaks](https://github.com/nipkownix/re4_tweaks) - a wrapper DLL that improves the PC RE4 UHD port, bringing fixes & improvements that have been requested for years!
 
-Finally, some mods/tools for UE4 games that I've made:
+Finally, some of my UE4 mods/tools:
+
 - [DQXIHook](https://github.com/emoose/DQXIHook) - mod for Dragon Quest XI that unlocks the UE4 dev console & allows loose-file loading.
 - [DQXIS-SDK](https://github.com/emoose/DQXIS-SDK) - mod for Dragon Quest XI S that allows easier modding through loose-file loading & enabling the dev-console, along with some code/resolution fixes & added game features.
 - [DQXIAsset](https://github.com/emoose/DQXIAsset) - a tool for (de)serializing / unpacking / decompiling the UE4 DataTables used by DQXIS.
