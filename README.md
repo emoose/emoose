@@ -1,8 +1,17 @@
 ### Shwmae!
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/emoose)</br>
 
-Ydy fy enw i emoose! In my free time I like to roleplay as a game modder/fixer, when I'm lucky the fixes actually work too.
+Ydy fy enw i emoose, welcome to my page!
 
-I've also been interested in console modding ever since I first modded my OG Xbox, most recently I've worked on:
+Recent things I've helped worked on:
+- [DLSSTweaks](https://github.com/emoose/DLSSTweaks) - allows customizing Nvidia DLSS via INI and a config tool.
+- [PrototypeFix](https://www.nexusmods.com/prototype/mods/52) - fixes for the games Prototype & Prototype 2 to help them work on modern machines.
+- [MGSHDFix](https://github.com/Lyall/MGSHDFix) - improvements for the MGS Master Collection PC release.
+
+#### Xbox 
+
+Been interested in console modding ever since I first modded my OG Xbox, here's some of the tools I've released:
+
 - [xvdtool](https://github.com/emoose/xvdtool) - for manipulating the XVD images used by Xbox One
 - [Xb2XInput](https://github.com/emoose/Xb2XInput) - for adding support for Xbox OG controllers to Windows
 - [xbox-winfsp](https://github.com/emoose/xbox-winfsp) - for mounting Xbox/Xbox360-specific file systems natively under Windows
@@ -12,7 +21,9 @@ I've also been interested in console modding ever since I first modded my OG Xbo
 - [ExCrypt](https://github.com/emoose/ExCrypt) - for interoperability with X360's XeCrypt cryptography suite
 - [XbRecUnpack](https://github.com/emoose/XbRecUnpack) - for fully unpacking Xbox/Xbox360 recoveries/installers
 
-I've helped to take some games apart to try making them moddable too, some of the projects that I was involved with:
+#### Game Modding
+
+Also helped take some games apart to try making them moddable too, some projects that I was involved with:
 - [sh2proxy](https://github.com/emoose/sh2proxy) - a mod for Silent Hill 2, bringing fixups for modern machines (outdated - use [Silent Hill 2 Enhanced Edition](http://www.enhanced.townofsilenthill.com/SH2/) instead!)
 - [MBINCompiler](https://github.com/monkeyman192/MBINCompiler) - a tool for (de)serializing No Mans Sky data files
 - [DOOMExtract](https://github.com/emoose/DOOMExtract) - for extracting/repacking DOOM 2016 resources
