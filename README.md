@@ -13,12 +13,12 @@ Recent things I've helped work on:
 
 Been console modding ever since messing around with my OG Xbox:
 
+- [xbox-reversing](https://github.com/emoose/xbox-reversing) - templates for [010 Editor](https://www.sweetscape.com/010editor/) & parsers for pulling apart various Xbox360 formats such as XEX/STFS/GPD
 - [xvdtool](https://github.com/emoose/xvdtool) - for manipulating the XVD images used by Xbox One
 - [Xb2XInput](https://github.com/emoose/Xb2XInput) - adds support for Xbox OG controllers to Windows
 - [xbox-winfsp](https://github.com/emoose/xbox-winfsp) - for mounting Xbox/Xbox360-specific file systems natively under Windows
 - [idaxex/xex1tool](https://github.com/emoose/idaxex) - disassemble X360 XEX executables from almost any point in time (pre-beta Xenon executables onward!)
 - [stfschk](https://github.com/emoose/xbox-reversing/tree/master/stfschk) - for validating the integrity of Xbox360 STFS packages
-- [xbox-reversing](https://github.com/emoose/xbox-reversing) - [010 Editor](https://www.sweetscape.com/010editor/) templates & parsers for pulling apart various Xbox360 formats such as XEX/STFS/GPD
 - [ExCrypt](https://github.com/emoose/ExCrypt) - for interoperability with X360's XeCrypt cryptography suite
 - [XbRecUnpack](https://github.com/emoose/XbRecUnpack) - for fully unpacking Xbox/Xbox360 recoveries/installers
 
