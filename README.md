@@ -1,4 +1,4 @@
-### Shwmae!
+## Shwmae!
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/emoose)</br>
 
 Ydy fy enw i emoose, welcome to my page!
@@ -10,7 +10,7 @@ Recent things I've helped work on:
 - [PrototypeFix](https://www.nexusmods.com/prototype/mods/52) - fixes for the games Prototype & Prototype 2 to help them work on modern machines.
 - [MGSHDFix](https://github.com/Lyall/MGSHDFix) - improvements for the MGS Master Collection PC release.
 
-#### Xbox 
+### Xbox / Xbox 360
 
 https://github.com/emoose/emoose/assets/1755499/5f1d3067-a1c1-46cf-ab69-7e17237c0228
 
@@ -23,7 +23,7 @@ https://github.com/emoose/emoose/assets/1755499/5f1d3067-a1c1-46cf-ab69-7e17237c
 - [ExCrypt](https://github.com/emoose/ExCrypt) - for interoperability with X360's XeCrypt cryptography suite
 - [XbRecUnpack](https://github.com/emoose/XbRecUnpack) - for fully unpacking Xbox/Xbox360 recoveries/installers
 
-#### Game Modding
+### Game Modding
 
 Also helped take some games apart to try making them moddable too:
 
@@ -45,7 +45,7 @@ Finally, some of my UE4 mods/tools:
 - [FFVIIHook](https://www.nexusmods.com/finalfantasy7remake/mods/74) - mod for FFVII Remake that unlocks dev-console & allows much easier INI modding.
 - [Bloodstained Dialogue & Character Viewer Resolution Fix](https://www.nexusmods.com/bloodstainedritualofthenight/mods/144) - Increases render resolution of models during dialogue sequences & menu screens, no more locked 1080p!
 
-## Contact
+### Contact
 Email: **abc (at) cock . li** - my replies may get marked as spam by most providers though.
 
 Discord: unfortunately I don't really use Discord much, contact over email is much more preferable!
