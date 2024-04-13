@@ -12,7 +12,7 @@ Recent things I've helped work on:
 
 #### Xbox 
 
-Been console modding ever since messing around with my OG Xbox:
+https://github.com/emoose/emoose/assets/1755499/5f1d3067-a1c1-46cf-ab69-7e17237c0228
 
 - [xbox-reversing](https://github.com/emoose/xbox-reversing) - templates for [010 Editor](https://www.sweetscape.com/010editor/) & parsers for pulling apart various Xbox360 formats such as XEX/STFS/GPD
 - [xvdtool](https://github.com/emoose/xvdtool) - for manipulating the XVD images used by Xbox One
