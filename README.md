@@ -12,8 +12,6 @@ Recent things I've helped work on:
 
 ### Xbox / Xbox 360
 
-https://github.com/emoose/emoose/assets/1755499/5f1d3067-a1c1-46cf-ab69-7e17237c0228
-
 - [xbox-reversing](https://github.com/emoose/xbox-reversing) - templates for [010 Editor](https://www.sweetscape.com/010editor/) & parsers for pulling apart various Xbox360 formats such as XEX/STFS/GPD
 - [xvdtool](https://github.com/emoose/xvdtool) - for manipulating the XVD images used by Xbox One
 - [Xb2XInput](https://github.com/emoose/Xb2XInput) - adds support for Xbox OG controllers to Windows
@@ -22,6 +20,8 @@ https://github.com/emoose/emoose/assets/1755499/5f1d3067-a1c1-46cf-ab69-7e17237c
 - [stfschk](https://github.com/emoose/xbox-reversing/tree/master/stfschk) - for validating the integrity of Xbox360 STFS packages
 - [ExCrypt](https://github.com/emoose/ExCrypt) - for interoperability with X360's XeCrypt cryptography suite
 - [XbRecUnpack](https://github.com/emoose/XbRecUnpack) - for fully unpacking Xbox/Xbox360 recoveries/installers
+
+https://github.com/emoose/emoose/assets/1755499/5f1d3067-a1c1-46cf-ab69-7e17237c0228
 
 ### Game Modding
 
