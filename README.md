@@ -11,6 +11,7 @@ Recent things I've helped work on:
 - [MPC-VR RTX](https://github.com/emoose/VideoRenderer) - adds Nvidia VideoSuperResolution & VideoHDR support to MPC-HC/MPC-BE video renderer.
 - [PrototypeFix](https://www.nexusmods.com/prototype/mods/52) - fixes for the games Prototype & Prototype 2 to help them work on modern machines.
 - [MGSHDFix](https://github.com/Lyall/MGSHDFix) - improvements for the MGS Master Collection PC release.
+- [re4_tweaks](https://github.com/nipkownix/re4_tweaks) - brings many improvements to the RE4 UHD Steam release, included in RE4 HD Project.
 
 ### Xbox / Xbox 360
 
