@@ -3,7 +3,7 @@
 
 Ydy fy enw i emoose, welcome to my page!
 
-Recent things I've helped work on:
+Recent projects:
 - [DLSSTweaks](https://github.com/emoose/DLSSTweaks) - allows customizing Nvidia DLSS via INI and a config tool.
 - [OutRun2006Tweaks](https://github.com/emoose/OutRun2006Tweaks/) - minor fixes & tweaks for OutRun 2006: Coast 2 Coast.
 - [DS2FrameUnlimiter](https://www.nexusmods.com/darksouls2/mods/1242) - fixes Dark Souls 2 SotFS to run above 60FPS without speedup.
@@ -15,7 +15,7 @@ Recent things I've helped work on:
 
 ### Xbox / Xbox 360
 
-- [xbox-reversing](https://github.com/emoose/xbox-reversing) - templates for [010 Editor](https://www.sweetscape.com/010editor/) & parsers for pulling apart various Xbox360 formats such as XEX/STFS/GPD
+- [xbox-reversing](https://github.com/emoose/xbox-reversing) - templates for [010 Editor](https://www.sweetscape.com/010editor/) & parsers for pulling apart various Xbox/Xbox360 formats such as XEX/XBE/STFS/GPD
 - [xvdtool](https://github.com/emoose/xvdtool) - for manipulating the XVD images used by Xbox One
 - [Xb2XInput](https://github.com/emoose/Xb2XInput) - adds support for Xbox OG controllers to Windows
 - [xbox-winfsp](https://github.com/emoose/xbox-winfsp) - for mounting Xbox/Xbox360-specific file systems natively under Windows
@@ -49,7 +49,7 @@ Finally, some of my UE4 mods/tools:
 - [Bloodstained Dialogue & Character Viewer Resolution Fix](https://www.nexusmods.com/bloodstainedritualofthenight/mods/144) - Increases render resolution of models during dialogue sequences & menu screens, no more locked 1080p!
 
 ### Contact
-Email: **abc (at) cock . li** - my replies may get marked as spam by most providers though.
+Email: **lucknut.xbl (at) gmail com**
 
 Discord: unfortunately I don't really use Discord much, contact over email is much more preferable!
 
