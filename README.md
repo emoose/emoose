@@ -3,7 +3,7 @@
 
 Ydy fy enw i emoose, welcome to my page!
 
-I post a lot of game/console modding related code to this github, some recent projects:
+I mainly post game/console modding related code to this github, some recent projects:
 - [DLSSTweaks](https://github.com/emoose/DLSSTweaks) - allows customizing Nvidia DLSS via INI and a config tool.
 - [OutRun2006Tweaks](https://github.com/emoose/OutRun2006Tweaks/) - minor fixes & tweaks for OutRun 2006: Coast 2 Coast.
 - [DS2FrameUnlimiter](https://www.nexusmods.com/darksouls2/mods/1242) - fixes Dark Souls 2 SotFS to run above 60FPS without speedup.
