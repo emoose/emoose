@@ -24,8 +24,6 @@ Mostly posting game/console modding related code to this github, some recent pro
 - [ExCrypt](https://github.com/emoose/ExCrypt) - for interoperability with X360's XeCrypt cryptography suite
 - [XbRecUnpack](https://github.com/emoose/XbRecUnpack) - for fully unpacking Xbox/Xbox360 recoveries/installers
 
-https://github.com/emoose/emoose/assets/1755499/5f1d3067-a1c1-46cf-ab69-7e17237c0228
-
 ### Game Modding
 
 Also helped take some games apart to try making them moddable too:
