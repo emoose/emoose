@@ -1,7 +1,8 @@
 ## Shwmae!
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/emoose)</br>
 
 Ydy fy enw i emoose, welcome to my page!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/emoose)</br>
 
 Mostly posting game/console modding related code to this github, some recent projects:
 - [DLSSTweaks](https://github.com/emoose/DLSSTweaks) - allows customizing Nvidia DLSS via INI and a config tool.
