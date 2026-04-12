@@ -39,7 +39,7 @@ Also helped take some games apart to try making them moddable too:
 - [Automata-LodMod](https://www.nexusmods.com/nierautomata/mods/165) - helps improve graphical quality in NieR Automata & patches in various improvements
 - [re4_tweaks](https://github.com/nipkownix/re4_tweaks) - a wrapper DLL that improves the PC RE4 UHD port, bringing fixes & improvements that have been requested for years!
 
-Finally, some of my UE4 mods/tools:
+Along with several UE mods/tools:
 
 - [DQXIHook](https://github.com/emoose/DQXIHook) - mod for Dragon Quest XI that unlocks the UE4 dev console & allows loose-file loading.
 - [DQXIS-SDK](https://github.com/emoose/DQXIS-SDK) - mod for Dragon Quest XI S that allows easier modding through loose-file loading & enabling the dev-console, along with some code/resolution fixes & added game features.
