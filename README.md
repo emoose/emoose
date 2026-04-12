@@ -4,7 +4,7 @@ Ydy fy enw i emoose, welcome to my page!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/emoose)</br>
 
-Mostly posting game modding/console projects to this github, some recent work:
+Mostly making game modding/console projects, some recent work:
 - [silent-hill-decomp](https://github.com/Vatuu/silent-hill-decomp) - in-progress decomp of the original Silent Hill 1 for PSX.
 - [DLSSTweaks](https://github.com/emoose/DLSSTweaks) - allows tweaking NVIDIA DLSS.
 - [OutRun2006Tweaks](https://github.com/emoose/OutRun2006Tweaks/) - minor fixes & tweaks for OutRun 2006: Coast 2 Coast.
