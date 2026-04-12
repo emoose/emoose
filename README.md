@@ -6,7 +6,7 @@ Ydy fy enw i emoose, welcome to my page!
 
 Mostly posting game modding/console projects to this github, some recent work:
 - [silent-hill-decomp](https://github.com/Vatuu/silent-hill-decomp) - in-progress decomp of the original Silent Hill 1 for PSX.
-- [DLSSTweaks](https://github.com/emoose/DLSSTweaks) - allows customizing Nvidia DLSS via INI and a config tool.
+- [DLSSTweaks](https://github.com/emoose/DLSSTweaks) - allows tweaking NVIDIA DLSS.
 - [OutRun2006Tweaks](https://github.com/emoose/OutRun2006Tweaks/) - minor fixes & tweaks for OutRun 2006: Coast 2 Coast.
 - [DS2FrameUnlimiter](https://www.nexusmods.com/darksouls2/mods/1242) - fixes Dark Souls 2 SotFS to run above 60FPS without speedup.
 - [NvTrueHDR](https://www.nexusmods.com/site/mods/781) - tool to enable RTX HDR in non-HDR games.
